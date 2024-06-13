@@ -1,5 +1,5 @@
 groq
 streamlit
-streamlit_lottie 
+streamlit-lottie 
 requests       
 json                                                                                                               
