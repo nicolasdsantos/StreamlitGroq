@@ -21,7 +21,7 @@ def load_lottieurl(url: str):
     return r.json()
 
 # Carregando animações Lottie
-lottie_coding = load_lottiefile("lottiefiles\config.json")
+lottie_coding = load_lottiefile("config.json")
 lottie_hello = load_lottieurl("https://lottie.host/2a4cd888-a67b-4535-b6c5-8cc74f789fde/9zIajAtwwn.json")
 
 # Estilizando os componentes de seleção
